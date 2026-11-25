@@ -82,3 +82,8 @@ training-proj/
 - Extension methods for grouping endpoints: `app.MapDriverEndpoints()`
 - One entity per file in Models/
 - Seed data as static methods in entity files
+
+## Commit Messages
+- One short line, imperative mood, to the point
+- Descriptive of what changed, no filler (e.g. `Add CacheService with key validation`)
+- No body unless explicitly asked
